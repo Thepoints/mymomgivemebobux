@@ -1,6 +1,6 @@
 4ax script /old version make u got kick thats why i give new one
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepoints/4AX/main/4Axnew", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepoints/4AxNewV/main/README.md", true))()
 ----------------------------------------------------------------------------------------------------------------------------------------------
 crash/Patched nob
 
