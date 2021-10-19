@@ -8,7 +8,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepoints/4AX/main/ga
 ----------------------------------------------------------------------------------------------------------------------------------------------
 random script i made
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepoints/4AX/main/randomthing", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepoints/RandomScript4Ax/main/README.md", true))()
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 more script coming soon :)
